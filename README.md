@@ -31,7 +31,7 @@
 
 ### Programming Languages & Learning
 * [python-learning](https://github.com/aditya-ambati/python-learning) - Python learning and practice projects
-* [Go_Learning](https://github.com/aditya-ambati/Go_Learning) - Golang learning and examples
+* [go-learning](https://github.com/aditya-ambati/go-learning) - Golang learning and examples
 * [scripts](https://github.com/aditya-ambati/scripts) - Useful scripts collection
 
 ## 🌱 Current Focus
